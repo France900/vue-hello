@@ -10,7 +10,7 @@ var app = new Vue(
     data: {
       messaggio: "esercizio",
       mieClassi: "red",
-      image: "./Cute-puppies(1).jpeg",
+      image: "./cute-puppies.jpeg",
     },
   }
 );
